@@ -1,0 +1,34 @@
+    #call-btn > a{
+            font-size: 1.5em;
+            margin-top: 600%;
+            display: block;
+            margin: 0 20px;
+            padding: 10px;
+            border: 2px solid #fff;
+            background-color: #f6b319;
+            color: #951c49;
+        }
+        #xs-deliver{
+            margin-top: 5px;
+            font-size: .7em;
+            letter-spacing: .1em;
+            text-transform: uppercase;
+
+        }
+
+        
+            /* We make it our own css style for more extra small  */
+            .col-xxs-12{
+                width: 100%;
+                position: relative;
+                min-height: 1px;
+                padding-right: 15px;
+                padding-left: 15px;
+                float: left;
+                width: 100px;      
+                      
+        }
+
+
+
+c
